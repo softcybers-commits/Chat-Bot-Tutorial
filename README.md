@@ -24,3 +24,6 @@ You can go to [this](https://www.mediafire.com/file/6z0zkach21s3y82/Discord-Chat
 
 # Credits
 Credits do not go to me, but instead [brainshop](http://brainshop.ai) and [Carbowix](https://github.com/Carbowix) Carbowix is the original creator of this. [Original-One](https://github.com/Carbowix/Cleve)
+# Error
+- I've received an error, what do I do?
+- Make a new issue.
